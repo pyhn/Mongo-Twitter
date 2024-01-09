@@ -2,7 +2,7 @@
 
 ## Description
 
-This Python script provides a simple command-line interface for interacting with a MongoDB database to perform various actions related to Twitter data. It leverages multiple modules (`top_tweet.py`, `top_user.py`, `search_tweet.py`, `compose_tweet.py`, `search_users.py`) to carry out operations such as searching for tweets, searching for users, listing top tweets, listing top users, and composing tweets. The interactions are text-based and guided by the console menu.
+This Python script provides a simple command-line interface for interacting with a MongoDB database to perform various actions related to Twitter data. It leverages multiple modules (`top_tweet.py`, `top_user.py`, `search_tweet.py`, `compose_tweet.py`, `search_users.py`) to carry out operations such as searching for tweets, searching for users, listing top tweets, listing top users, and composing tweets. The interactions are text-based and guided by the console menu. This script has been tested on collections with more than 400 000 documents. (Original JSON too large to add to repository).
 
 ## Prerequisites
 
